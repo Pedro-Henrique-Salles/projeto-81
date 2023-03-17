@@ -1,10 +1,10 @@
 h1
 {
-	color: red; 
+	color: rgb(7, 7, 7); 
 	font-size: 40px;
 }
 .bodyBackground {
-	background-image: url("bg1.jpg");
+	background-image: url("https://img.elo7.com.br/product/zoom/25F63C3/papel-de-parede-infantil-teen-lapis-de-cor-quarto-n4253-papel-de-parede-autocolante.jpg");
 	background-position: center;
 	background-size: cover;
 }
